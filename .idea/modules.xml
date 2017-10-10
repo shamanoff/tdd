@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercise Files.iml" filepath="$PROJECT_DIR$/.idea/Exercise Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/02_02/begin/tdd-02-02-project-begin.iml" filepath="$PROJECT_DIR$/Chapter2/02_02/begin/tdd-02-02-project-begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/02_02/end/tdd-02-02-project-end.iml" filepath="$PROJECT_DIR$/Chapter2/02_02/end/tdd-02-02-project-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/02_03/begin/tdd-02-03-project-begin.iml" filepath="$PROJECT_DIR$/Chapter2/02_03/begin/tdd-02-03-project-begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/02_03/end/tdd-02-03-project-end.iml" filepath="$PROJECT_DIR$/Chapter2/02_03/end/tdd-02-03-project-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3/03_02/begin/tdd-03-02-project-begin.iml" filepath="$PROJECT_DIR$/Chapter3/03_02/begin/tdd-03-02-project-begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3/03_02/end/tdd-03-02-project-end.iml" filepath="$PROJECT_DIR$/Chapter3/03_02/end/tdd-03-02-project-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3/03_03/begin/tdd-03-03-project-begin.iml" filepath="$PROJECT_DIR$/Chapter3/03_03/begin/tdd-03-03-project-begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter4/04_02/begin/tdd-04-02-project-begin.iml" filepath="$PROJECT_DIR$/Chapter4/04_02/begin/tdd-04-02-project-begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter4/04_03/begin/tdd-04-03-project-begin.iml" filepath="$PROJECT_DIR$/Chapter4/04_03/begin/tdd-04-03-project-begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter5/05_01/begin/tdd-05-01-project-begin.iml" filepath="$PROJECT_DIR$/Chapter5/05_01/begin/tdd-05-01-project-begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter5/05_02/begin/tdd-05-02-project-begin.iml" filepath="$PROJECT_DIR$/Chapter5/05_02/begin/tdd-05-02-project-begin.iml" />
+    </modules>
+  </component>
+</project>
