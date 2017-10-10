@@ -18,8 +18,7 @@ public class ContactsManagementService {
 		
 		return newContact;	
 	}
-	
-	/*
+		/*
 	public CustomerContact addContactOccasion(CustomerContact aContact, ContactImportantOccasion anOccasion) {
 		CustomerContact newContact = null;
 		
